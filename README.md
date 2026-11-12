@@ -6,4 +6,4 @@ Ce Projet consiste à créer une entreprise qui met en vente un jeu SEASONS. Nou
 Jouter votre travail dans le fichier docs
 https://docs.google.com/document/d/1XnU5ZewPZ7t4pzJYgqH776qDWurn1tK2eaeJUsBftgE/edit?usp=sharing
 
-https://docs.google.com/document/d/1NdKlhFL5RpRO4xWTFbXBcFdIHFz8eBt8/edit?usp=sharing&ouid=103211255760007238574&rtpof=true&sd=true
+
